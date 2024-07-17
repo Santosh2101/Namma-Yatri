@@ -1,9 +1,10 @@
 # Namma-Yatri
 This repository contains a Power BI project designed to visualize and analyze auto bookings.
+The dashboard provides comprehensive insights into the various aspects of auto booking activities, allowing for a better understanding of customer behavior and operational efficiency.
+
 
 ![image](https://github.com/user-attachments/assets/50bb0cf7-571e-4f06-9dcb-b9893d160190)
 
-This repository contains a Power BI project that performs an analysis of auto bookings. The dashboard provides comprehensive insights into the various aspects of auto booking activities, allowing for a better understanding of customer behavior and operational efficiency.
 
 **Key Features:**
 
@@ -20,6 +21,7 @@ Total Fare: Represents the total fare collected from all completed trips.
 Conversion Rate: Illustrates the percentage of searches that resulted in completed trips.
 
 **Visualizations:**
+
 Trips vs Duration: A line chart displaying the count of trips against their duration.
 
 Trips vs Fare: A line chart showing the relationship between trip count and fare amount.
