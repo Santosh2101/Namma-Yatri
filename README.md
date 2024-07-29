@@ -3,7 +3,8 @@ This repository contains a Power BI project designed to visualize and analyze au
 The dashboard provides comprehensive insights into the various aspects of auto booking activities, allowing for a better understanding of customer behavior and operational efficiency.
 
 
-![image](https://github.com/user-attachments/assets/50bb0cf7-571e-4f06-9dcb-b9893d160190)
+![image](https://github.com/user-attachments/assets/a85a9799-4466-4a60-a956-45641f7fd61e)
+
 
 
 **Key Features:**
