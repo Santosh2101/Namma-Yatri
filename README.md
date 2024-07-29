@@ -2,6 +2,8 @@
 This repository contains a Power BI project designed to visualize and analyze auto bookings.
 The dashboard provides comprehensive insights into the various aspects of auto booking activities, allowing for a better understanding of customer behavior and operational efficiency.
 
+Dashboard link: https://project.novypro.com/VXsPae
+
 
 ![image](https://github.com/user-attachments/assets/a85a9799-4466-4a60-a956-45641f7fd61e)
 
