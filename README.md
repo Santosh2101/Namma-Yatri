@@ -25,9 +25,9 @@ Conversion Rate: Illustrates the percentage of searches that resulted in complet
 
 Trips vs Duration: A line chart displaying the count of trips against their duration.
 
-Trips vs Fare: A line chart showing the relationship between trip count and fare amount.
+Fare vs Duration: A line chart showing the relationship between Duration and fare amount.
 
-Trips vs Duration by Assembly: A detailed breakdown of trip duration by assembly region.
+Distance vs Duration by Assembly: A detailed breakdown of trip duration by assembly region.
 
 Assembly-wise Analysis: A table summarizing the number of searches, quotes, and estimates by assembly region.
 
